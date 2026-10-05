@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0b1736"/><stop offset=".55" stop-color="#2563eb"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+<rect width="1200" height="500" rx="40" fill="url(#g)"/>
+<circle cx="950" cy="120" r="150" fill="white" opacity=".08"/><circle cx="1050" cy="390" r="220" fill="white" opacity=".06"/>
+<text x="70" y="220" fill="white" font-family="Arial, sans-serif" font-size="88" font-weight="800">VEYLORA AI</text>
+<text x="75" y="285" fill="#dbeafe" font-family="Arial, sans-serif" font-size="32">Discover Your Strengths. Explore Your Future.</text>
+</svg>

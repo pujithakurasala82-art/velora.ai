@@ -1,0 +1,177 @@
+[
+  {
+    "career": "Cybersecurity Analyst",
+    "why_suitable": "A strong match for students interested in technology, logical investigation, networks, security and detailed problem solving.",
+    "required_skills": [
+      "Networking",
+      "Linux",
+      "Security fundamentals",
+      "SIEM",
+      "Log analysis",
+      "Incident response"
+    ],
+    "skill_gaps": [
+      "Hands-on security labs",
+      "SIEM practice",
+      "Incident-response workflow"
+    ],
+    "learning_roadmap": [
+      "Computer networking",
+      "Linux fundamentals",
+      "Cybersecurity fundamentals",
+      "SIEM and log analysis",
+      "SOC labs",
+      "Projects and interview preparation"
+    ],
+    "future_opportunities": [
+      "SOC Analyst",
+      "Security Analyst",
+      "Threat Monitoring Analyst",
+      "Incident Response Analyst"
+    ],
+    "alternative_roles": [
+      "Network Security Engineer",
+      "Threat Intelligence Analyst"
+    ]
+  },
+  {
+    "career": "Data Analyst",
+    "why_suitable": "A strong option for students who enjoy numbers, patterns, data interpretation and analytical decision making.",
+    "required_skills": [
+      "Excel",
+      "SQL",
+      "Statistics",
+      "Python",
+      "Power BI/Tableau",
+      "Data storytelling"
+    ],
+    "skill_gaps": [
+      "SQL practice",
+      "Data visualization",
+      "Portfolio projects"
+    ],
+    "learning_roadmap": [
+      "Excel",
+      "SQL",
+      "Statistics",
+      "Python for data",
+      "Power BI/Tableau",
+      "Portfolio projects"
+    ],
+    "future_opportunities": [
+      "Junior Data Analyst",
+      "BI Analyst",
+      "Reporting Analyst",
+      "Product Analyst"
+    ],
+    "alternative_roles": [
+      "Business Analyst",
+      "Data Quality Analyst"
+    ]
+  },
+  {
+    "career": "Software Developer",
+    "why_suitable": "A good pathway for students who enjoy programming, logical reasoning, building applications and solving structured problems.",
+    "required_skills": [
+      "Programming",
+      "Data structures",
+      "Git",
+      "Databases",
+      "APIs",
+      "Testing"
+    ],
+    "skill_gaps": [
+      "Data structures practice",
+      "Project depth",
+      "Software engineering workflow"
+    ],
+    "learning_roadmap": [
+      "Programming fundamentals",
+      "Git",
+      "Data structures",
+      "Databases",
+      "APIs",
+      "Full-stack or backend projects"
+    ],
+    "future_opportunities": [
+      "Software Developer",
+      "Backend Developer",
+      "Web Developer",
+      "Application Developer"
+    ],
+    "alternative_roles": [
+      "QA Automation Engineer",
+      "DevOps Associate"
+    ]
+  },
+  {
+    "career": "Cloud / Network Engineer",
+    "why_suitable": "A good option for students interested in infrastructure, networking, systems and cloud platforms.",
+    "required_skills": [
+      "Networking",
+      "Linux",
+      "Cloud basics",
+      "Virtualization",
+      "Security",
+      "Automation"
+    ],
+    "skill_gaps": [
+      "Cloud labs",
+      "Linux administration",
+      "Automation"
+    ],
+    "learning_roadmap": [
+      "Networking",
+      "Linux",
+      "Cloud fundamentals",
+      "Virtual networks",
+      "Security",
+      "Hands-on cloud projects"
+    ],
+    "future_opportunities": [
+      "Cloud Support Associate",
+      "Network Engineer",
+      "Cloud Engineer",
+      "Infrastructure Engineer"
+    ],
+    "alternative_roles": [
+      "DevOps Associate",
+      "Cloud Security Associate"
+    ]
+  },
+  {
+    "career": "AI / ML Engineer",
+    "why_suitable": "A pathway for students who enjoy mathematics, data, programming, experimentation and artificial intelligence.",
+    "required_skills": [
+      "Python",
+      "Statistics",
+      "Linear algebra",
+      "Machine learning",
+      "Data handling",
+      "Model evaluation"
+    ],
+    "skill_gaps": [
+      "Math foundations",
+      "ML projects",
+      "Model evaluation"
+    ],
+    "learning_roadmap": [
+      "Python",
+      "Statistics",
+      "Data analysis",
+      "Machine learning",
+      "Model evaluation",
+      "AI projects"
+    ],
+    "future_opportunities": [
+      "ML Engineer",
+      "AI Engineer",
+      "Data Scientist",
+      "Applied AI Developer"
+    ],
+    "alternative_roles": [
+      "Data Analyst",
+      "AI Application Developer"
+    ]
+  }
+]
